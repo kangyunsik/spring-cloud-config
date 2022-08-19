@@ -1,6 +1,1 @@
-token:
-  expiration_time: 86400000
-  secret: user_token_default
-
-gateway:
-  ip: 172.20.10.2
+gateway: 172.20.10.2
