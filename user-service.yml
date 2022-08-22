@@ -5,8 +5,6 @@ spring:
     username: sa
     password: "{cipher}AQCwycT59/suRjWC0TiOZ0OP9VoEhRPFaACrdqbPkfftFsE7rRX4yU+BQIttxVOAPerNr1reg3tVna/zMzv1jIjBXfPIHWdIOFXVo0Ok0gGFTUKbQ92HOQTEppRxbYZRiPbEFVr4ncMSWoCLoLEUKFJ8Or+Rg5IKEVs0ACJHVpd0Nu7+mhZ10jkYeZBodQtB0W9YpeZCCVIXkt/5hEq3N8ULSKUTDx3HHxSrpFTXf1Iu9BDMQlBoiKzlhlCVXsjiRNNtwImtYe9Dq+l8nLcvVGFZX1br3Z7Af+pe3eH9C+0jry2ltXBvCKgO2xrc1N8OF5E6irA4gRXqo81rEAErkL++Ze7FHSg1vOFttm0LhIFnMGqkqodLC6hVm6p3g0Z2nU8="
 
-gateway: 172.18.0.5
-
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
   exception:
