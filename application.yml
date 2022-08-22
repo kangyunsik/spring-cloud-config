@@ -3,5 +3,5 @@ token:
   secret: "{cipher}AQAjq9/pX6cEm0d0/6ty8OAXbCWa+ybcUygYaMHH4UyKeUJtPe8ZiuDu5BSKfepXluFCFFSktMZy+6FHIQqgdZCLkmIWFQzlvPxtWVl8FAoc7ch/JFFktvm700xZb7RTdTKOKF0hdBDgcHCTp39xeiIViPQs5zpoTwAhQYAgRDGCYPZHej73eL9fh6U/AwdHmotrEttfPRK6PQZDk20ROPMSsrJETx82zju1WTiPuxeCZIBor9K1Q0wicqsNDcZRhvpqnnsHmL65U7BKPF5XZ8uVe21ARjAAh3YFSlaUbOTeJm5B13ILFyachAeZsRvohoco0astxznmlJvVd23S6TWkclGC/pYaElayHSHQOGUR5zNTfyndV0dWvdAPoFYpIaGE/aLeMy8W07ElIUOioUaW"
 
 gateway:
-  ip: apigateway-service
+  ip: 172.18.0.5
 # 172.18.0.5

@@ -1,2 +1,2 @@
 gateway:
-  ip: apigateway-service
+  ip: 172.18.0.5
