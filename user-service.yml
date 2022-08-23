@@ -14,4 +14,4 @@ order_service:
     orders_is_empty: "There is no Orders."
 
 gateway:
-  ip: 172.18.0.5
+  ip: apigateway-service
